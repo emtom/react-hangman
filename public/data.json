@@ -1,0 +1,529 @@
+{
+  "words": [
+    {
+      "langCode": "pl-PL",
+      "word": "kotka",
+      "hint": "małe domowe zwierzę"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "piesek",
+      "hint": "najlepszy przyjaciel człowieka"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "samochod",
+      "hint": "środek transportu na drodze"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kwiaty",
+      "hint": "pięknie pachną i wyglądają"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "deszcz",
+      "hint": "opady atmosferyczne"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "telefon",
+      "hint": "służy do rozmów i komunikacji"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "księżyc",
+      "hint": "świeci w nocy na niebie"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "motocykl",
+      "hint": "dwukołowy pojazd na drodze"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "laptop",
+      "hint": "przenośny komputer"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "komputer",
+      "hint": "elektroniczne urządzenie do pracy i rozrywki"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "słońce",
+      "hint": "źródło światła i ciepła"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "pizza",
+      "hint": "ulubione danie wielu ludzi"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "gracz",
+      "hint": "osoba grająca w gry komputerowe"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "krab",
+      "hint": "ma pancerz i chodzi na boki"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "księżniczka",
+      "hint": "kobieta z bajek"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "motyl",
+      "hint": "ma piękne kolorowe skrzydła"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "papuga",
+      "hint": "potrafi mówić"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "rower",
+      "hint": "dwukołowy środek transportu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kaczka",
+      "hint": "ptak wodny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "drzewo",
+      "hint": "ma liście i rośnie na ziemi"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "chleb",
+      "hint": "podstawowy produkt spożywczy"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "woda",
+      "hint": "niezbędna do życia"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "basen",
+      "hint": "miejsce do pływania"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "okulary",
+      "hint": "służą do poprawiania wzroku"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "książka",
+      "hint": "zawiera wiele słów i opowieści"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "muszla",
+      "hint": "element łazienki"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "morze",
+      "hint": "duże ciało wodne"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "góra",
+      "hint": "wzniesienie terenu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kotek",
+      "hint": "mały kot"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "płaszcz",
+      "hint": "odzież z materiału"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "delfin",
+      "hint": "morski ssak"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "radio",
+      "hint": "urządzenie do odbierania dźwięku"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "serce",
+      "hint": "organ wewnętrzny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "klucz",
+      "hint": "narzędzie do otwierania zamków"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "buty",
+      "hint": "obuwie"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "rakieta",
+      "hint": "pojazd kosmiczny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "samolot",
+      "hint": "lotniczy środek transportu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "bocian",
+      "hint": "ptak wędrowny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "strona",
+      "hint": "część książki"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "drukarka",
+      "hint": "urządzenie do drukowania"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "telewizor",
+      "hint": "służy do oglądania programów"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ziemia",
+      "hint": "nasza planeta"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "teatr",
+      "hint": "miejsce przedstawień artystycznych"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ryba",
+      "hint": "żyje w wodzie i pływa"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "skrzypce",
+      "hint": "instrument muzyczny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "konsola",
+      "hint": "urządzenie do gier wideo"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "spodnie",
+      "hint": "część garderoby"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "szczotka",
+      "hint": "narzędzie do czyszczenia"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ksiądz",
+      "hint": "duchowny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "lawenda",
+      "hint": "pachnący kwiat"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "walizka",
+      "hint": "bagaż podręczny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "arbuz",
+      "hint": "owoc"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "oczy",
+      "hint": "narząd wzroku"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "nocnik",
+      "hint": "naczynie do oddawania moczu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "torba",
+      "hint": "pojemnik na rzeczy"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kalendarz",
+      "hint": "spis dat i dni tygodnia"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "stół",
+      "hint": "mebel do jedzenia"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "wieloryb",
+      "hint": "duży morski ssak"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "truskawka",
+      "hint": "owoc"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kukurydza",
+      "hint": "roślina uprawna"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "pomidor",
+      "hint": "owoc warzywny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "rękawice",
+      "hint": "odzież ochronna na ręce"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "maskara",
+      "hint": "kosmetyk do rzęs"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "żelazko",
+      "hint": "urządzenie do prasowania"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "dywan",
+      "hint": "ozdoba podłogi"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "lustra",
+      "hint": "oświetlenie"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "dyrektor",
+      "hint": "kierownik firmy"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "czapka",
+      "hint": "nakrycie głowy"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "sukienka",
+      "hint": "element garderoby"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "koń",
+      "hint": "zwierzę hodowlane"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "helikopter",
+      "hint": "lotniczy środek transportu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "rekin",
+      "hint": "morski drapieżnik"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "trampki",
+      "hint": "obuwie sportowe"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ryż",
+      "hint": "ziarno"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "mikrofon",
+      "hint": "urządzenie do nagrywania dźwięku"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kompas",
+      "hint": "narzędzie do określania kierunku"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "bieganie",
+      "hint": "forma aktywności fizycznej"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "warsztat",
+      "hint": "miejsce pracy rzemieślnika"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ołówek",
+      "hint": "narzędzie do pisania"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kamera",
+      "hint": "urządzenie do rejestrowania obrazu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "okoń",
+      "hint": "ryba słodkowodna"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "strawberry",
+      "hint": "owoc"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ogórek",
+      "hint": "warzywo"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "palma",
+      "hint": "duże drzewo"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "drewno",
+      "hint": "materiał budowlany"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "roleta",
+      "hint": "osłona okienna"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "motocykl",
+      "hint": "dwukołowy środek transportu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "dzwonek",
+      "hint": "urządzenie dzwoniące"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "traktor",
+      "hint": "maszyna rolnicza"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "czekolada",
+      "hint": "słodycz"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "słoik",
+      "hint": "pojemnik na jedzenie"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "wulkan",
+      "hint": "góra wybuchowa"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ogród",
+      "hint": "miejsce uprawy roślin"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kotlet",
+      "hint": "mięsna potrawa"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "filizanka",
+      "hint": "pojemnik na kawę lub herbatę"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "samochodzik",
+      "hint": "mały pojazd"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "szczur",
+      "hint": "gryzoń"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "światło",
+      "hint": "źródło światła"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "laptop",
+      "hint": "przenośny komputer"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "helikopter",
+      "hint": "lotniczy środek transportu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kubek",
+      "hint": "pojemnik na napoje"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "spacer",
+      "hint": "przechadzka na świeżym powietrzu"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "kuchnia",
+      "hint": "miejsce przygotowywania jedzenia"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "domek",
+      "hint": "mały budynek mieszkalny"
+    },
+    {
+      "langCode": "pl-PL",
+      "word": "ksiazka",
+      "hint": "zawiera wiele słów i opowieści"
+    }
+  ]
+}
