@@ -10,7 +10,7 @@ export const HiddenWordChars: FC<HiddenWordCharsProps> = ({ hiddenWord, correctL
   return (
     <div className='flex flex-row justify-center mt-8'>
     { hiddenWord?.word.split('').map((letter, i) => (
-      <div key={i} className='mx-2 rounded flex items-center justify-center w-6 h-8 text-sm bg-slate-800/25 text-white border-white'>
+      <div key={i} className='mx-2 rounded flex items-center justify-center w-8 h-10 text-lg bg-slate-800/25 text-white border-solid border border-sky-900'>
         { correctLetters.includes(letter) 
           ?letter
           : ' '

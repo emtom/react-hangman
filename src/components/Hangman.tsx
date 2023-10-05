@@ -6,8 +6,8 @@ interface HangmanProps {
 
 export const Hangman: FC<HangmanProps> = ({ steps }) => {
   return (
-    <div className='mx-auto flex items-center justify-center w-[160px] h-[160px] rounded-xl overflow-hidden bg-slate-800/25'>
-      { steps > 0 && <svg width="75" height="142" viewBox="0 0 75 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <div className='mx-auto flex items-center justify-center w-[170px] h-[170px] rounded-xl overflow-hidden bg-slate-800/25 border-solid border border-sky-900'>
+      { steps > 0 && <svg width="75" height="140" viewBox="0 0 75 140" fill="none" xmlns="http://www.w3.org/2000/svg">
       { steps >= 1 && <line  x1="2" y1="142" x2="2" stroke="#ffffff" strokeWidth="4"/> }
       { steps >= 2 && <line x1="4" y1="2" x2="61" y2="2" stroke="#ffffff" strokeWidth="4"/> }
       { steps >= 3 && <line x1="60" x2="60" y2="21" stroke="#ffffff" strokeWidth="4"/> }

@@ -57,8 +57,6 @@ export const HangmanGame: FC = () => {
     const handleKeyDown = (event: { key: string }) => {
       const { key } = event;
 
-      console.log('key', key)
-
       if (gameState !== GAME_STATE.PLAYING) {
         return;
       }
@@ -106,14 +104,14 @@ export const HangmanGame: FC = () => {
         { hintVisible && hiddenWord && <HiddenWordHint hiddenWord={hiddenWord} />}
 
         { gameState == GAME_STATE.WON && <div className="flex items-center mt-8 flex-col">
-          <div className="px-8 py-2 bg-green-800 rounded border-green-600 border">Udało się!</div>
-            <button onClick={playAgain} className="font-semibold text-xs mt-2">Zagraj jeszcze raz</button>
+          <div className="px-8 py-2 w-full mb-6 text-center bg-green-800  border-green-600 border-y">Udało się!</div>
+          <button onClick={playAgain} className="font-semibold px-4 py-2 rounded border-solid border border-sky-900">Zagraj jeszcze raz</button>
           </div>
         }
 
         { gameState == GAME_STATE.LOST && <div className="flex items-center mt-8 flex-col">
-          <div className="px-8 py-2 bg-red-800 rounded border-red-600 border">Nie udało się</div>
-            <button onClick={playAgain} className="font-semibold text-xs mt-2">Zagraj jeszcze raz</button>
+          <div className="px-8 py-2 w-full mb-6 bg-red-800 text-center border-red-600 border-y">Nie udało się</div>
+            <button onClick={playAgain} className="font-semibold px-4 py-2 rounded border-solid border border-sky-900">Zagraj jeszcze raz</button>
           </div>
         }
       </div>
