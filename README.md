@@ -1,5 +1,7 @@
 # Simple Hangman Game
 
+![Build and deploy](https://github.com/emtom/react-hangman/actions/workflows/publish-to-pages.yml/badge.svg)
+
 ![Hangman Game Screenshot](screenshot.png)
 
 A simple Hangman game built as a practice project using React, Vite, and TypeScript. Game includes 100 hardcoded Polish phrases for word guessing fun! Includes hints!

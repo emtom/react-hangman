@@ -24,13 +24,13 @@ jobs:
         with:
           node-version: 18.16.1
           cache: 'yarn'
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v1
       - name: Install dependencies
         run: yarn
       - name: Build
         run: yarn build
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
